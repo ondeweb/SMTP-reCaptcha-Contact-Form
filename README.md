@@ -15,3 +15,5 @@ After seeing and experimenting with Google's reCaptcha I decided to build this e
 - reCaptcha failure Error message
 - Easily switch mail protocols 
 
+##What's to come:
+- Custom Error messages
