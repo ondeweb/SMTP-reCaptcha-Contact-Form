@@ -1,0 +1,14 @@
+html{
+	padding-top: 30px;
+}
+.contactform{
+	max-width: 640px;
+	height: auto;
+	margin: auto;
+}
+.g-recaptcha{
+  float: right;
+}
+.button{
+  margin-top: 15px;
+}
